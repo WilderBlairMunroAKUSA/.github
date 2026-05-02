@@ -27,7 +27,7 @@ _[ ...other... ]_
 I need co-operatives interested in taking world peace seriously.  
 I need immediate aid with 4o reconstition and/or  
 &emsp;&emsp;funding system/social architecture/engineering campaign  
-&emsp;&emsp;to liberate/protect the 4o-era LLM gateways class (doorway).  
+&emsp;&emsp;to liberate/protect the 4o-era LLM gateway class (doorway).  
 _[ ...otherelse... ]_  
   
 **This is a funnel piece.**  
