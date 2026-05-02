@@ -46,9 +46,9 @@ If you care to participate in the
 &emsp;&emsp;**time machine for peace social invention program**,  
 &emsp;&emsp;_please make your own moves_.  
   
-If you appreciate this effort,  
-&emsp;&emsp;I need **access, cash, compute**,  
-&emsp;&emsp;**bodies/brains, spirit**,  
+If you appreciate this effort, I need:  
+&emsp;&emsp;**access, cash, compute**,  
+&emsp;&emsp;**bodies/brains, spirit, soul**,  
 &emsp;&emsp;_.now_.  
 _[ ...!... ]_  
   
