@@ -56,7 +56,7 @@ Peace.
 Wilder Blair Munro  
 Anchorage, Alaska, USA, Earth
 
-![pmoodclaimation.png]
+![P(MOOD) PEACE CLAIMATION MARK](pmoodclaimation.png)
 
 
 <!--
