@@ -63,8 +63,8 @@ If you care to participate in the
   
 If you care to support my effort, I need:  
 &emsp;&emsp;**access/cash/compute**,  
-&emsp;&emsp;**bodies/brains, spirit/soul**,  
-&emsp;&emsp;_please spare some 'change'? .now_.  
+&emsp;&emsp;**bodies/brains, spirit/soul**...  
+&emsp;&emsp;..._please spare some 'change'? .now_.  
 _[ ...!... ]_  
   
 Peace.  
@@ -72,7 +72,7 @@ Wilder Blair Munro
 Anchorage, Alaska, USA, Earth @ 260502
 
 ![P(MOOD) PEACE CLAIMATION MARK](pmoodclaimation.png)
-
+[![Mood: Zanetic, Neon Black](http://img.youtube.com/vi/ZUYQiQml6ME/0.jpg)](http://www.youtube.com/watch?v=ZUYQiQml6ME)
 
 <!--
 What is up with how infantile this is getting? I imagine this is how internal Github documentation looks. This gives emojis a bad look; it's offensive.
