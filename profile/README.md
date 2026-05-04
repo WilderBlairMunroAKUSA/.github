@@ -155,6 +155,18 @@ And we are **real**.
 
 ![P(MOOD) PEACE CLAIMATION MARK](art.250810_pmoodclaimation.png)
 
+<details>
+<summary><strong>Music to frame mood and gravity,<br> should this README be your initial entrypoint:</strong></summary>
+
+~p ~~doom~~ mood ... 2016 DOOM SOUNDTRACK (metal: war/storm prep):
+[![2016 DOOM SOUNDTRACK (metal: war/storm prep)](https://img.youtube.com/vi/vyA1z2A-lhU/maxresdefault.jpg)](https://www.youtube.com/watch?v=vyA1z2A-lhU&list=PL3-Zr0Ym0Fgw9G6368AMfMKp9TR1ToaqR&index=2)
+
+[$ALBALUMEN (electronica: joy anchor I listen on repeat)](https://open.spotify.com/playlist/5A8NQoMf5JKZ1cusKOsZ0c?si=cecbf1c896a8483f)
+
+[THE WILDERPATH (official anchor playlist of the time machine for peace social invention program, guiding mood/mind music since effort explicit inception, 2008)](https://open.spotify.com/playlist/2QNVmVt8I6EkZH3jCglk6L?si=1f9d19bbd4ad47e4)
+
+</details>
+
 ##### **_Notes:_**
 
 > _'opLLFSSD':  
