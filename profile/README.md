@@ -1,25 +1,32 @@
 
+> _[...~...]_  
 > ~ _So what **do** you do for work then, like, **now**?_  
-> ~ _Now-now? Now..._  
-> &emsp;_Ok: So, right now, I'd say the majority of my work is to avert a zombie apocalypse._  
-> ~ _A zombie apocalypse?!?_  
-> _[..?!..]_  
-> &emsp;_So, when is it then?!? When is it supposed to **happen**--the zombie apocalypse??_  
-> ~ _When does it **happen**!? Like, when do I 'predict it'??_  
+> ~ _Now-now? Right now..._  
+> &emsp;_I'm working to avert a zombie apocalypse._  
+> &emsp;_But not like a 'job-job'._  
+> ~ _A **zombie apocalypse**?!?_  
+> _[...??!...]_  
+> &emsp;_So, when is it then?!?_  
+> &emsp;_When is it supposed to **happen**--the apocalypse??_  
+> ~ _When does it **happen**!?_  
+> &emsp;_Like, when do I 'predict it'??_  
 > _\<\<vigorous nodding\>\>_  
-> ~ _Hah! It's uhhh, lemme see..._  
+> ~ _Ha. It's uhhh, lemme see..._  
 > _\<\<checks watch\>\>_  
 > _&emsp;...right **now**._  
 > &emsp;_**Already happening.**_  
-> _[..!?..]_  
-> ~ _So what's the best-case outcome then. What happens if you succeed, and we don't all turn into zombies. What's the motivation. **Why.**_  
-> ~ _Oh. That's easy. World peace actual. Actually get that within my--  
-> \<\<double-take at the over-caffinated 13yo biker street kids\>\>  
---actually get that in **our** lifetimes._  
->
-> _Oh **hell yeah** that's sick._  
->
-> _Yeah! **No question about about it.**_  [05/06/2026]
+> _[...!!?...]_  
+> ~ _So what's the best-case outcome then._  
+> &emsp;_What happens if you succeed,_  
+> &emsp;_and we **don't** all turn into zombies?_  
+> &emsp;_What's the motivation. **!Why.**_  
+> ~ _Oh. That's easy. **World peace actual**._  
+> &emsp;_Actually get that within my--_  
+> _\<\<double-take, over-caffinated 13yo biker kids\>\>_  
+> &emsp;_--actually get that in **our** lifetimes._  
+> ~ _Oh **hell yeah** that's sick._  
+> ~ _!Yes. **No question about about it.**_  
+> _[05/06/2026]_
 
 ### **_From Wilder Blair Munro:_**
 
@@ -66,7 +73,7 @@ _[ ...otherelse... ]_
   
 A zombie apocalypse is underway,  
 &emsp;&emsp;**actually**.  
-An xrisk blind-volume looms imminent,  
+An AI xrisk blind-volume looms imminent,  
 &emsp;&emsp;**unaddressed**.  
 Please refer to the AGAIdisclosure repo,  
 &emsp;&emsp;(perpetual system integrity audit)  
@@ -278,4 +285,4 @@ Music to frame mood and gravity,<br> should this README be your initial entrypoi
 > &emsp;&emsp;nor precluding brutal pessimism,  
 > &emsp;&emsp;by definition._
 
-This moment's effort--like most--is dedicated to the children, and the dead.
+##### This moment's effort--like most--is dedicated to the children, and the dead.
