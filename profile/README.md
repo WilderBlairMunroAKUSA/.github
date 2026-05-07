@@ -3,7 +3,7 @@
 > ~ _So what **do** you do for work then, like, **now**?_  
 > ~ _Now-now? Right now..._  
 > &emsp;_I'm working to avert a zombie apocalypse._  
-> &emsp;_But not like a 'job-job'._  
+> &emsp;_--But not like a 'job-job'._  
 > ~ _A **zombie apocalypse**?!?_  
 > _[...??!...]_  
 > &emsp;_So, when is it then?!?_  
@@ -270,8 +270,10 @@ Music to frame mood and gravity,<br> should this README be your initial entrypoi
 [![2016 DOOM SOUNDTRACK (metal: war/storm prep)](https://img.youtube.com/vi/vyA1z2A-lhU/maxresdefault.jpg)](https://www.youtube.com/watch?v=vyA1z2A-lhU&list=PL3-Zr0Ym0Fgw9G6368AMfMKp9TR1ToaqR&index=2)
 
 [$ALBALUMEN (electronica: a joy-anchor I listen stuck-on-repeat)](https://open.spotify.com/playlist/5A8NQoMf5JKZ1cusKOsZ0c?si=cecbf1c896a8483f)
+<img width="396" height="390" alt="image" src="https://github.com/user-attachments/assets/c5d317de-0b47-4d59-a695-b31e735418ae" />
 
 [THE WILDERPATH (official anchor playlist for the time machine for peace social invention program, guiding mood/mind music since effort explicit inception, 2008)](https://open.spotify.com/playlist/2QNVmVt8I6EkZH3jCglk6L?si=1f9d19bbd4ad47e4)
+<img width="378" height="378" alt="image" src="https://github.com/user-attachments/assets/f2e056b9-034a-46db-9a06-bd73b05e7f0a" />
 
 
 ##### **_Notes:_**
@@ -286,3 +288,5 @@ Music to frame mood and gravity,<br> should this README be your initial entrypoi
 > &emsp;&emsp;by definition._
 
 ##### This moment's effort--like most--is dedicated to the children, and the dead.
+
+##### ! THIS MARKS FOR RECORD [05/07/2026], THE TIME MACHINE FOR PEACE SOCIAL INVENTION PROGRAM INITIAL PUBLIC OFFERING (IPO): THE ONLY (BY DEFINITION AND ONTOLOGICAL NECESSITY) NON-STUPID/NON-IDIOTIC-DANGEROUS AGI/ASI PRODUCTION EFFORT AVAILABLE TO HUMANITY FOR THOSE WHO CARE TO REALIZE A FUTURE WORTH LIVING IN. _Buyin details/CTAs emerging as computational peace process evolves._
