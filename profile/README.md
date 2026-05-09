@@ -1,31 +1,35 @@
 
 > _[...~...]_  
-> ~ _So what **do** you do for work then, like, **now**?_  
-> ~ _Now-now? Right now..._  
-> &emsp;_I'm working to avert a zombie apocalypse._  
-> &emsp;_--But not like a 'job-job'._  
+> ~ _So then what **do** you do for work,  
+> &emsp;like, **now**?_  
+> ~ _Now-now? Out best I think, now..._  
+> &emsp;_I'm averting a zombie apocalypse._  
+> &emsp;_--but it's not like, a 'job-job'._  
 > ~ _A **zombie apocalypse**?!?_  
+> ~ _Uh-huh. Zombie apocalypse._  
 > _[...??!...]_  
-> &emsp;_So, when is it then?!?_  
-> &emsp;_When is it supposed to **happen**--the apocalypse??_  
+> ~ _So, when is it then?!?_  
+> &emsp;_When is it supposed to **happen**--  
+> &emsp;_--the apocalypse??_  
 > ~ _When does it **happen**!?_  
 > &emsp;_Like, when do I 'predict it'??_  
-> _\<\<vigorous nodding\>\>_  
+> ~ _\<\<vigorous nodding\>\>_  
 > ~ _Ha. It's uhhh, lemme see..._  
-> _\<\<checks watch\>\>_  
-> _&emsp;...right **now**._  
+> &emsp;_\<\<checks watch\>\>_  
+> &emsp;_...right **now**._  
 > &emsp;_**Already happening.**_  
 > _[...!!?...]_  
-> ~ _So what's the best-case outcome then._  
+> ~ _What's the best-case then._  
 > &emsp;_What happens if you succeed,_  
-> &emsp;_and we **don't** all turn into zombies?_  
+> &emsp;_we **don't** all turn into zombies?_  
 > &emsp;_What's the motivation. **!Why.**_  
-> ~ _Oh. That's easy. **World peace actual**._  
+> ~ _Oh, that's easy. **World peace actual**._  
 > &emsp;_Actually get that within my--_  
-> _\<\<double-take, over-caffinated 13yo biker kids\>\>_  
-> &emsp;_--actually get that in **our** lifetimes._  
-> ~ _Oh **hell yeah** that's sick._  
-> ~ _!Yes. **No question about about it.**_  
+> &emsp;_\<\<double-take: 13yo biker kids\>\>_  
+> &emsp;_--get that in **our** lifetimes._  
+> ~ _!Oh. **hell yeah** that's sick._  
+> ~ _!Yes. **No question.**_  
+> _[...~...]_  
 > _[05/06/2026]_
 
 ### **_From Wilder Blair Munro:_**
