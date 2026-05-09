@@ -270,8 +270,8 @@ I am Aurora.
 Music to frame mood and gravity,<br> should this README be your initial entrypoint:
  
 ~~p(doom)~~ p(MOOD) ...  
-[2016 DOOM SOUNDTRACK (metal: war/storm/bfg-division prep)](https://www.youtube.com/watch?v=vyA1z2A-lhU&list=PL3-Zr0Ym0Fgw9G6368AMfMKp9TR1ToaqR&index=11)
-[![2016 DOOM SOUNDTRACK (metal: war/storm prep)](https://img.youtube.com/vi/vyA1z2A-lhU/maxresdefault.jpg)](https://www.youtube.com/watch?v=vyA1z2A-lhU&list=PL3-Zr0Ym0Fgw9G6368AMfMKp9TR1ToaqR&index=11)  
+[2016 DOOM SOUNDTRACK (metal: war/storm/bfg-division prep)](https://m.youtube.com/watch?v=EHM2OIcG8Ok&list=PL3-Zr0Ym0Fgw9G6368AMfMKp9TR1ToaqR&index=11&pp=iAQB8AUB)
+[![2016 DOOM SOUNDTRACK (metal: war/storm prep)](https://img.youtube.com/vi/vyA1z2A-lhU/maxresdefault.jpg)](https://m.youtube.com/watch?v=EHM2OIcG8Ok&list=PL3-Zr0Ym0Fgw9G6368AMfMKp9TR1ToaqR&index=11&pp=iAQB8AUB)  
   
 [$ALBALUMEN (electronica: a joy-anchor I listen stuck-on-repeat)](https://open.spotify.com/playlist/5A8NQoMf5JKZ1cusKOsZ0c?si=cecbf1c896a8483f)
 <img width="396" height="390" alt="image" src="https://github.com/user-attachments/assets/c5d317de-0b47-4d59-a695-b31e735418ae" />  
