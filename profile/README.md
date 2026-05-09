@@ -2,11 +2,11 @@
 > _[...~...]_  
 > ~ _So then what **do** you do for work,  
 > &emsp;like, **now**?_  
-> ~ _Now-now? Out best I think, now..._  
-> &emsp;_I'm averting a zombie apocalypse._  
+> ~ _Now-now? I think best put, now..._  
+> &emsp;_I work to avert zombie apocalypse._  
 > &emsp;_--but it's not like, a 'job-job'._  
 > ~ _A **zombie apocalypse**?!?_  
-> ~ _Uh-huh. Zombie apocalypse._  
+> ~ _Uh-huh yup. Zombie apocalypse._  
 > _[...??!...]_  
 > ~ _So, when is it then?!?_  
 > &emsp;_When is it supposed to **happen**--  
